@@ -135,6 +135,7 @@
 .flot__text{
    display: flex;
    justify-content: space-between;
+   font-family: 'Courier New', Courier, monospace;
    
    
 }
