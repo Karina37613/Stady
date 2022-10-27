@@ -1,0 +1,140 @@
+.tera {
+    height: 170px;
+    width: 150px;
+    border: 10px solid forestgreen;
+    text-align: center;
+    margin: 15px;
+
+
+}
+
+.intera {
+    border: 5px solid forestgreen;
+    background-color: forestgreen;
+}
+
+
+.img {
+
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.foottera {
+    border: solid forestgreen;
+    background-color: forestgreen;
+}
+
+.kot {
+    height: 35px;
+    border: 1px solid firebrick;
+    text-align: center;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: blue;
+    font-size: 20px;
+    text-align: start;
+
+
+
+}
+
+.color {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.kot:visited {
+    color: white;
+}
+
+.kot:hover {
+    color: blue;
+    background-color: red;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid firebrick;
+
+}
+
+.menu {
+    display: block;
+    margin: 10px;
+
+}
+
+.fond {
+    display: flex
+}
+
+.img__img__asd {
+    height: 15px;
+    width: 15px;
+    background: url(icon/asd.png);
+    display: inline-block;
+    background-size: contain;
+
+}
+
+.img__img__asd:hover {
+    background: url(icon/asdf.png);
+
+}
+
+.img__img__asdf {
+    height: 15px;
+    width: 15px;
+    background: url(icon/asd.png);
+    display: inline-block;
+    background-size: contain;
+}
+
+.img__img__asdf:hover {
+    background: url(icon/asdfg.png);
+}
+
+.img__img__asdfg {
+    height: 15px;
+    width: 15px;
+    background: url(icon/asd.png);
+    display: inline-block;
+    background-size: contain;
+}
+
+.img__img__asdfg:hover {
+    background: url(icon/asdfg.png);
+}
+
+.block {
+    height: 300px;
+    width: 500px;
+    
+}
+.heder{
+    display: flex;
+    justify-content: center;
+    
+}
+.galery{
+    display: flex;
+    
+   
+}
+.text{
+    display: flex;
+    justify-content: end;
+}
+.flot__text{
+   display: flex;
+   justify-content: space-between;
+   
+   
+}
